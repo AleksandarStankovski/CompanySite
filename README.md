@@ -1,1 +1,1 @@
-Demo Company site
+Company site
